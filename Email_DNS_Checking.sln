@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email DNS Checking", "Email DNS Checking.csproj", "{46555E53-E734-4EDA-B8A7-908B06123060}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email_DNS_Checking", "Email_DNS_Checking.csproj", "{46555E53-E734-4EDA-B8A7-908B06123060}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

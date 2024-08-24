@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Email_DNS_Checking</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>./README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/MrFlooky/Email-DNS-Checking-Library/</RepositoryUrl>
+    <Authors>MrFlooky, Renwix</Authors>
+    <Copyright>MrFlooky</Copyright>
+    <PackageTags>email,dns</PackageTags>
+    <PackageIcon>./icon.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DnsClient" Version="1.8.0" />
+    <None Include="README.md" Pack="true" PackagePath="\"/>
+    <None Include="icon.png" Pack="true" PackagePath=""/>
+  </ItemGroup>
+
+</Project>
